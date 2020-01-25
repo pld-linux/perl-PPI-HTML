@@ -4,7 +4,6 @@
 #
 %define		pdir	PPI
 %define		pnam	HTML
-%include	/usr/lib/rpm/macros.perl
 Summary:	PPI::HTML - Generate syntax-hightlighted HTML for Perl using PPI
 Summary(pl.UTF-8):	PPI::HTML - generowanie HTML-a z podświetlaniem składni dla Perla z PPI
 Name:		perl-PPI-HTML
