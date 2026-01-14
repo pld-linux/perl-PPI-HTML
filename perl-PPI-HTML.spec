@@ -8,7 +8,7 @@ Summary:	PPI::HTML - Generate syntax-hightlighted HTML for Perl using PPI
 Summary(pl.UTF-8):	PPI::HTML - generowanie HTML-a z podświetlaniem składni dla Perla z PPI
 Name:		perl-PPI-HTML
 Version:	1.08
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
